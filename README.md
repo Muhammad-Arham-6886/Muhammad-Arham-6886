@@ -35,9 +35,9 @@
 
 ###
 
- <div style="align-items: center;" class="image">
-        <img style="background-size: cover; width: 100%; height: max-content;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Yzd3g4aTdidzQ4dmxwYmE2Ym05eGliam4xcm5mMmt4Y3cyYTRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding">
-    </div>
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
+</div>
 
 
 ###
