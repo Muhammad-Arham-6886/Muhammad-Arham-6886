@@ -18,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div class="social-icns" align="center">
   <a href="www.linkedin.com/in/muhammad-arham-49b388257">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
