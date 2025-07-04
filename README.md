@@ -1,3 +1,10 @@
+<style>
+  .tech-logo img {
+    max-width: 30px;
+    width: 100%;
+  }
+</style>
+
 <div align="center">
   <img src="https://github.com/Muhammad-Arham-6886/Muhammad-Arham-6886/blob/main/image%203.png"  />
 </div>
@@ -62,7 +69,7 @@
 
 ###
 
-<div align="left">
+<div class="tech-logo" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="40" alt="woocommerce logo"  />
@@ -88,7 +95,7 @@
 
 ###
 
-<div align="left">
+<div class="tech-logo" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
@@ -104,7 +111,7 @@
 
 ###
 
-<div align="left">
+<div class="tech-logo" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -120,7 +127,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div class="tech-logo" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
